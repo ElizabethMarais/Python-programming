@@ -1,5 +1,6 @@
 ##www.coursera.org: Python Data stuctures, course 2 
-print "FUNCTION: Lists, sorting reverse order, determine which country built in most, different ways of displaying data."
+print "FUNCTION: Reading a data file, lists, sorting reverse order, determine which country bridges mostly built in," 
+print "different ways of displaying data. Data includes Name, Span in meters, Date completed, Country."
 print "When prompted, please enter 'long bridges.txt' as data file."
 
 print " "
@@ -32,7 +33,7 @@ for line in fh:
             item = name,span_num,date_item,country_nm
             bridge_list.append(item)
 
-print "LIST: Print bridge names and other information extracted from the file:"
+print "LIST: Print bridge names and other information extracted from the file: "
 print bridge_list
             
 #determine in which country most bridges have been built in this file
@@ -54,8 +55,8 @@ bridge_list.sort()
 print bridge_list
 
 print " "
-print "Print list items individually in a certain arrangement, using 'bridge span' as sort item, in descending order."
-print "Span   Date   Country   Name"
+print "Print list items individually in a certain arrangement, using 'bridge span' in meters as sort item, in descending order."
+print "Span (m)   Date   Country   Name"
 bridge_country = {}
 fh = open('long bridges.txt')
 for line in fh:
