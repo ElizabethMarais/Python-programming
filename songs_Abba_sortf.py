@@ -1,5 +1,11 @@
-#www.coursera.org: Python Data structures, file, dictionaries exercise
+#www.coursera.org: Python Data structures, file, list, dictionaries exercise
 
+print "FUNCION: Data file has some lines containing word 'Abba', just after that an Abba song is listed." 
+print "Program finds top ten Abba songs and print them."
+print " "
+print "When prompted for the data file, please enter 'Abba music.txt'."
+
+print " "
 name = raw_input("Enter file to find the Abba songs: ")     # name = "Abba music.txt"
 if len(name) < 1 or name <> "Abba music.txt": 
    name = "Abba music.txt"
