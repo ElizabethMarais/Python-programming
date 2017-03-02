@@ -1,0 +1,22 @@
+Danyang Kunshan Grand Bridge,	164800,  2010,	 China
+Changhua Kaohsiung, 	157317,	 2007,	 Taiwan
+Tianjin Grand Bridge,	113700,	2010,	 China
+Cangde Grand Bridge,	115900,	 2010,	 China
+Weinan Weihe Grand Bridge,  79732,  2008,	 China
+Bang Na Expressway,	54000,	 2000,	Thailand
+Beijing Grand Bridge,	48153,	2010,	 China
+Lake Pontchartrain Causeway,	38442,	1956,	 US
+Manchac Swamp Bridge,  	36710,	1979,	 US
+Yangcun Bridge,	 35812,	2007,	 China
+Hangzhou Bay Bridge,	35673,	2007,	 China
+Runyang Bridge,	 35660,	2005,	 China
+Donghai Bridge,	32500,	2005,	 China
+Shanghai Maglev line,	29908,	2003,	 China
+Dwarka Metro Station Rama Krishna Ashram,  29808,	2010,	 India
+Wuhan Metro Bridge,	28870,	2009,	 China
+Yanshi Bridge,	28543,	2009,	 China
+Jiaozhou Bay Bridge,	26707,	2011,	 China
+Jintang Bridge,	26540,	2009,	 China
+Tianjin Binhai Mass Transit,    25800,	2003,	 China
+King Fahd Causeway Bridge I,	25000,	1986,	 SaudiArabia
+Cangzhou Dezhou Grand Bridge,	18200,	2010,	 China	
