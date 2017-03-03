@@ -4,6 +4,7 @@ print "different ways of displaying data. Data includes Name, Span in meters, Da
 print "When prompted, please enter 'long bridges.txt' as data file."
 
 print " "
+print "Bridges and relevant information extracted from file and printed in complete sentences: "
 bridge_list = list()
 country_dict = {}
 most_country = {}
@@ -26,6 +27,8 @@ for line in fh:
             country = line[pos_date+1:]
             country_nm = country.strip()      #strip all blank spaces before it
 
+            print "The", name, "has a span of", span_num, "meters, was completed in",date_item,"in the country",country_nm
+
             #build a dictionary of bridge name and country:
             country_dict[name] = country_nm   
 
@@ -33,7 +36,8 @@ for line in fh:
             item = name,span_num,date_item,country_nm
             bridge_list.append(item)
 
-print "LIST: Print bridge names and other information extracted from the file: "
+print " "
+print "LIST: Print bridge names and other information extracted from the file in list form: "
 print bridge_list
             
 #determine in which country most bridges have been built in this file
@@ -50,7 +54,7 @@ for country, count in most_country.items():
 print "The country in which the most bridges in this list have been built, is", bigcountry, "and it is", bigcount, "times."
 
 print " "
-print "LIST: Sorted ascending according to bridge names:"
+print "LIST: Sorted according to bridge names (ascending):"
 bridge_list.sort()
 print bridge_list
 
@@ -83,8 +87,15 @@ for line in fh:
             bridge_list.append(item)
 
 print " "
+
+#print first item in list, thus highest span
+print "The highest span is", bridge_list[0][1], "meters. It is", bridge_list[0][-2],"date completed",bridge_list[0][2], "in the country", bridge_list[0][3]    
+
 i = 0
-print "Print list items underneath each other:"
+print " "
+#print last item in list, thus lowest span
 for i in range(len(bridge_list)):
-     print bridge_list[i]
+      if i == len(bridge_list)-1:
+        print "The smallest span is", bridge_list[i][0], "meters. It is", bridge_list[i][3],"date completed",bridge_list[i][1], "in the country", bridge_list[i][2]    
+
 
