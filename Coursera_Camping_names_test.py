@@ -9,7 +9,7 @@ largest = None
 smallest = None
 larg_len = 0
 small_len = 0
-print 'FUNCTION: User enter names, the longest and shortest name is printed."
+print "FUNCTION: User enter names, the longest and shortest name is printed."
 print "Enter the names of the parties that camped together at Meiringskloof at Fouriesburg, Eastern Free State. Enter 'done' when finished."
 
 while True:
