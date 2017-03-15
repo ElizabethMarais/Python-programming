@@ -1,19 +1,14 @@
 #www.coursera.org: Python Data stuctures, course 2.  OWN CODE
 
-print "FUNCTION: Enter the names and birth dates of a few great opera men singers, determine which one is the youngest."
+print "FUNCTION: Enter the names and year of birth dates of a few great opera men singers, determine which one is the youngest."
 print "Possible entries are Carreras 1946, Pavarotti 1935, Domingo 1941, Watson 1966."
-
-#Carreras 1946
-#Pavarotti 1935
-#Domingo 1941
-#Watson 1966
-
 
 singers = dict()
 bigword = None
 bigcount = 0
 
 print "Enter the names and birth dates of a few great opera men singers, enter 'done' when finished."
+print "The program tests for integer input for year of birth date."
 print " "
 
 inp_nm = raw_input("Enter the name of a singer: ")
@@ -21,7 +16,7 @@ inp_nm = raw_input("Enter the name of a singer: ")
 key = 0
 while inp_nm != 'done':
     key = inp_nm
-    inp_date = raw_input("Enter the singer's birth date: ")
+    inp_date = raw_input("Enter the singer's year of birth: ")
     singers[key] = inp_date
     try: 
        if int(singers[key]) > 0:
@@ -29,7 +24,7 @@ while inp_nm != 'done':
               bigword = key
               bigcount = int(singers[key])
     except:
-       print "Wrong input, this entry is ignored, enter only integers for birth date."
+       print "Wrong input, this entry is ignored, enter only integers for birth year."
        continue
     inp_nm = raw_input("Enter a name of a singer: ")
 

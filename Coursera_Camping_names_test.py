@@ -1,15 +1,14 @@
 #www.coursera.org: Python Data stuctures, course 1, last exercise (testing longest and shortest)
 
-# Write a program that repeatedly prompts a user for the names people at the Meiringskloof camping with Holtzhausens, 
-# until the user enters 'done'. Once 'done' is entered, print out the longest and shortest name.
-# code works, it tests that user does not enter numbers
 # code does not work 100% if user enters two names with same length
 
 largest = None
 smallest = None
 larg_len = 0
 small_len = 0
-print "FUNCTION: User enter names, the longest and shortest name is printed."
+print "FUNCTION: The user is prompted to enter the names people at the Meiringskloof who camped with Holtzhausen family during December 2016,"
+print "it tests that user does not enter numbers. The longest and shortest name is printed."
+print " "
 print "Enter the names of the parties that camped together at Meiringskloof at Fouriesburg, Eastern Free State. Enter 'done' when finished."
 
 while True:
