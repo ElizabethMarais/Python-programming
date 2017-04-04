@@ -23,7 +23,7 @@ for tag in tags:
 
 
 print " "
-print "OUTPUT 2: Find lines with 'li' in (first 8), print value of 'class' :"
+print "OUTPUT 2: Find lines with 'li' in (first 7), print value of 'class' :"
 tags = soup('li')
 tags_part = tags[0:7]
 print "Print original lines found: "
