@@ -16,14 +16,14 @@ soup = BeautifulSoup(html)
 # Each tag is like a dictionary of HTML attributes
 
 print " "
-print "OUTPUT 1: Find lines with 'link' in, print words after 'rel':"
+print "OUTPUT 1: Find lines with 'link' in, print value of 'rel':"
 tags = soup('link')
 for tag in tags:
     print tag.get('rel', None)
 
 
 print " "
-print "OUTPUT 2: Find lines with 'li' in, print words after 'class' (first 8):"
+print "OUTPUT 2: Find lines with 'li' in (first 8), print value of 'class' :"
 tags = soup('li')
 tags_part = tags[0:7]
 print "Print original lines found: "
