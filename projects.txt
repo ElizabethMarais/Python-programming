@@ -1,0 +1,21 @@
+N2452,	Pretoria,	Annlin
+N1845,	Pretoria,	Annlin 491
+N2831,	Pretoria,	Annlin Erwe 223 + 224
+N163,	Pretoria,	Annlin Wes X15, 16 & 17
+N115,   Pretoria,	Annlin Wes X30
+N835,	Pretoria,	Annlin x 101 Ged. 279
+N1836,	Pretoria,	Annlin X81
+N1288,	Pretoria,	Annlin X40
+N1517,	Kapanong,	Atok
+N2853,	Pretoria,	Boardwalk Villas 3 - Lavender Close
+N1883,	Pretoria,	Boardwalk Villas X 4 – Bergkaree
+N1528,	Pretoria,	Boardwalk X 21
+N1885,	Pretoria,	Boardwalk X 23
+N2233,	Pretoria,	Boardwalk X5 – Olympus Winkelsentrum
+N1209,	Gauteng,	Bombela EE Audits 
+N2852,	Pretoria,	Boardwalk Meander - Schoonspruit
+N1760,	Pretoria,	Boardwalk Phase 4
+N1256,	Pretoria,	Annlin X38
+
+
+
