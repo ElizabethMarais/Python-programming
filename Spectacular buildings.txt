@@ -1,0 +1,27 @@
+01. Lotus Temple,		New Delhi,	India,		Asia,		1986,   Fairborz Sahba	
+02. Cologne Cathedral,		Cologne,	Germany,	Europe,		1880,	Various
+03. Dome of the Rock,		Jerusalem,	Israel,		Asia,		1561,	Abd al-Malik
+04. La Pedrera, 		Barcelona,	Spain,		Europe,		1912,   Antoni Gaudi
+05. One World Trade Center, 	New York,	USA,		North-America,	2013,	Skidmore Owings & Merrill 
+06. St Paul's Cathedral, 	London,		England,	Europe,		1718,	Sir Christopher Wren
+07. Petronas Towers, 		Kuala Lumpur,	Malaysia,	Asia,		2004,	Cesar Pelli and Achmad Murdijat
+08. The White House, 		Washington,	USA,		North-America,	1801,	James Hoban
+09. Leaning Tower of Pisa,	Rome,		Italy,		Europe,		1473,	Diotisalvi
+10. The Kaaba, 			Mecca,		Saudi-Arabia,	Asia,		1620,   Various
+11. The Shard, 			London,		England,	Europe,		2012,	Various
+12. St Basil's Cathedral, 	Mosco,		USSR,		Asia,		1560,	Postnik Yakolev
+13. Empire State Building, 	New York,	USA,		North-America,	1931,	Shreve Lamb and Harmon
+14. Lloyds Building,		London,		England,	Europe,		1986,	Richard Rogers
+15. Colosseum,			Rome,		Italy,		Europe,	 	80,	Various
+16. Taj Mahal,			Agra,		India,		Asia,		1684,	Mughal architecture 
+17. Chrysler Building,		New York,	USA,		North-America,	1930,	William Van Alen
+18. Sydney Opera House,		Sydney,	A	ustralia,	Australia,	1958,	Jorn Utzon 
+19. Space Needle,		Seattle,	USA,		North-America,	1962,	Edward E Carlson and John Graham
+20. Hagia Sophia,		Istanbul,	Turkey,		Asia,		537,	Tyzantine architecture
+21. Buckingham Palace,		London,		England,	Europe,		1703,	John Nash Edmund Blore and Sir Aston Webb
+22. Fallingwater,		Pittsburgh,	USA		North-America,  1939,	Frank Lloyd Wright
+23. Pantheon,	 		Rome,		Italy,		Europe,		126,	Various
+24. Guggenheim Museum,	 	Bilbao,		USA,		North-America,	1997,	Frank Gehry 
+25. Flatiron building,	 	New York,	USA,		North-America,	1902,	Daniel Burnham 
+26. Villa Savoye,		Poissy,		France,		Europe,		1928,	Le Corbusier and Pierre Jeanneret
+27. Burj Khalifa,	 	Dubai,		UAE,		Asia,		2010,	Skidmore Owings and Merril LLP
