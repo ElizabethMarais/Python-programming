@@ -15,11 +15,11 @@
 15. Colosseum,			Rome,		Italy,		Europe,	 	80,	Various
 16. Taj Mahal,			Agra,		India,		Asia,		1684,	Mughal architecture 
 17. Chrysler Building,		New York,	USA,		North-America,	1930,	William Van Alen
-18. Sydney Opera House,		Sydney,	A	ustralia,	Australia,	1958,	Jorn Utzon 
+18. Sydney Opera House,		Sydney,	        Australia,	Australia,	1958,	Jorn Utzon 
 19. Space Needle,		Seattle,	USA,		North-America,	1962,	Edward E Carlson and John Graham
 20. Hagia Sophia,		Istanbul,	Turkey,		Asia,		537,	Tyzantine architecture
 21. Buckingham Palace,		London,		England,	Europe,		1703,	John Nash Edmund Blore and Sir Aston Webb
-22. Fallingwater,		Pittsburgh,	USA		North-America,  1939,	Frank Lloyd Wright
+22. Fallingwater,		Pittsburgh,	USA,		North-America,  1939,	Frank Lloyd Wright
 23. Pantheon,	 		Rome,		Italy,		Europe,		126,	Various
 24. Guggenheim Museum,	 	Bilbao,		USA,		North-America,	1997,	Frank Gehry 
 25. Flatiron building,	 	New York,	USA,		North-America,	1902,	Daniel Burnham 
