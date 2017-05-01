@@ -50,25 +50,24 @@ for line in fh:
 
 #OUTPUT:
 print " "
-print "PRINTING rows stored in table, limited to 30 rows. "
+print "PRINTING rows stored in table, displaying limited to 30 rows, showing from largest city (rank). "
+print "Rank City    Population  Area(/m2)  Country"
 sqlstr = 'SELECT * FROM LargestCities order by rank ASC LIMIT 30'   # if want to limit rows printed: LIMIT 100
 
 for row in cur.execute(sqlstr):
-     print row[0], row[1], row[2], row[3], row[4]
-     if row == 20: break
+     print row[0], " ", row[1], "  ", row[2], "  ",  row[3], " ",  row[4]
 
 print " "
-print "PRINT all rows starting with letter supplied by user, first 20. "
+print "PRINT rows starting with letter supplied by user, first 15. "
 string_build  = None
 string_build = ""
-x = raw_input("Please enter a letter to select and print all rows where country starts with it, like 'C' for China: ")
+x = raw_input("Please enter a letter to select and print rows where country starts with letter, like 'C' for China: ")
 like_str = "'" + x + '%' + "'"
 string_build1 = 'like ' + like_str + 'LIMIT 15'
 string_build  = "SELECT * FROM LargestCities WHERE country " + string_build1
 sqlstr = string_build
 
 for row in cur.execute(sqlstr):
-     print str(row[0]), row[1], row[4]
-     if row == 30: break
+     print str(row[0]), " ", row[1], " ", row[4]
 
 cur.close()
