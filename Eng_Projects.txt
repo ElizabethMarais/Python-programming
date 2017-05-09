@@ -1,8 +1,8 @@
-08;	17/026;	K1233;	Wingtip;	WINGTIP CROSSING SHOPPING CENTRE (PTY) LTD;	19-04-2017;	14362;
-01;	17/027;	K1109;	Six fountains offices;   PRICELESS PROPERTIES (PTY) LTD;	26-04-2017;	32478;
-01;	17/028;	K1230;	Groenkloof student centre level 3;	UNIVERSITY OF PRETORIA: Facilities Management;	26-04-2017;	10233;
-10;	17/029;	K1030;	 Loftus Park Building;	ABLAND (PTY) LTD;	28-04-2017;	78974;
-07;	16/047;	K1370;	Hazeld Offices;		ABLAND (PTY) LTD;	12-08-2016;	23900;
-01;	17/007;	K1382;	Hartbeesfontein substasie;	M&T DEVELOPMENT (PTY) LTD;	10-03-2017;	113825;
-07;	17/017;	K1211;	Shalimar Ridge Hostels;		DGSD Consulting Engineers & Project Managers;	07-03-2017;	2390;
-05;	17/018;	K1211;	Shalimar Ridge Hostels;	    DGSD Consulting Engineers & Project Managers;	07-03-2017;	34985;
+08;	17/026;	K1233;	Wingtip;	WINGTIP CROSSING SHOPPING CENTRE (PTY) LTD;	19/04/2017;	14362;
+01;	17/027;	K1109;	Six fountains offices;   PRICELESS PROPERTIES (PTY) LTD;	26/04/2017;	32478;
+01;	17/028;	K1230;	Groenkloof student centre level 3;	UNIVERSITY OF PRETORIA: Facilities Management;	26/04/2017;	10233;
+10;	17/029;	K1030;	 Loftus Park Building;	ABLAND (PTY) LTD;	28/04/2017;	78974;
+07;	16/047;	K1370;	Hazeld Offices;		ABLAND (PTY) LTD;	12/08/2016;	23900;
+01;	17/007;	K1382;	Hartbeesfontein substasie;	M&T DEVELOPMENT (PTY) LTD;	10/03/2017;	113825;
+07;	17/017;	K1211;	Shalimar Ridge Hostels;		DGSD Consulting Engineers & Project Managers;	07/03/2017;	2390;
+05;	17/018;	K1211;	Shalimar Ridge Hostels;	    DGSD Consulting Engineers & Project Managers;	07/03/2017;	34985;
