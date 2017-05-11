@@ -1,0 +1,10 @@
+K1233;	Wingtip Shopping centre;	5000000;	550000;
+K1109;	Six fountains offices;	24000000;	2640000;
+K1230;	Groenkloof student centre level 3;	108100;	11891;
+K1030;	Loftus Park Building;	33000000;	3630000;
+K1370;	Hazeldean Offices;	26500000;	2915000;
+K1382;	Hartbeesfontein substation;	4500000;	495000;
+K1211;	Shalimar Ridge;	23000000;	2530000;
+K1403;	Kuruman Mall;	65000000;	715000;
+K1502/02;	Witfontein substation;	12000000;	1320000;
+K1508;	Clayville X4 substation;	5000000;	550000;

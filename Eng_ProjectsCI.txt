@@ -1,0 +1,12 @@
+08;	17/026;	K1233;		Wingtip Shopping Mall;		WINGTIP CROSSING SHOPPING (PTY) LTD;		4;  19/04/2017;	14362;
+01;	17/027;	K1109;		Six fountains offices;  	PRICELESS PROPERTIES (PTY) LTD;			3;  26/04/2017;	32478;
+01;	17/028;	K1230;		Groenkloof student level 3;	UNIVERSITY OF PRETORIA: Facilities;		2;  26/04/2017;	10233;
+10;	17/029;	K1030;		Loftus Park Building;		ABLAND (PTY) LTD                 ;		1;  28/04/2017;	78974;
+07;	16/047;	K1370;		Hazeldean Offices build.;	ABLAND (PTY) LTD                 ;		1;  12/08/2016;	23900;
+01;	17/007;	K1382;		Hartbeesfontein substation;	M&T DEVELOPMENT (PTY) LTD;			5;  10/03/2017;	113825;
+07;	17/017;	K1211;		Shalimar Ridge Hostels;	   	DGSD Consulting Eng. & Project Managers;	6;  07/03/2017;	2390;
+05;	17/018;	K1211;		Shalimar Ridge Hostels;	    	DGSD Consulting Eng. & Project Managers;	6;  07/03/2017;	34985;
+23;	16/036;	K1403;		Kuruman Mall;			NEMATEX (PTY) LTD      ;			7;  13/06/2016;	82650;
+01;	16/057;	K1502/03;	Hartbeesfontein substation;	M&T DEVELOPMENT (PTY) LTD;			5;  30/09/2016;	114757; 
+02;	16/058;	K1502/02;	Witfontein;			M&T DEVELOPMENT (PTY) LTD;			5;  30/09/2016;	31076;
+01;	17/001;	K1508;		Clayville X74;			M&T DEVELOPMENT (PTY) LTD;			5;  31/01/2017;	42390;
