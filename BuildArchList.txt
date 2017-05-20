@@ -1,0 +1,14 @@
+Nanyang Primary School;	Singapore;	Singapore;	1;	2015;
+Wujin Lotus Conference Center;	Wujin;	China;	1;	2013;
+Wintergarden Art Facade;	Brisbane;	Australia;	1;	2012;
+Pixel building;	Melbourne Victoria;	Australia;	1;	2010;
+The Waratah Studio;	Chelsea;	United Kingdom;	1;	2013;
+Suzhou Science & Cultural Arts Centre Facade;	Suzhou;	China;	1;	2006;
+UFA-Palast in Dresden;	Dresden;	Germany;	2;	1998;
+Helix Bridge;	Singapore;	Singapore;	6;	2010;
+Busan Cinema Center;	Busan;	South Korea;	2;	2012;
+Royal Pavilion;	Brighton;	England;	4;	1786;
+Sheraton Huzhou Hot Spring Resort;	Huzhou Shi;	China;	5;	2013;
+Canton Tower;	Guangzhou;	China;	3;	2010;
+Musee des Confluences;	Lyon;	France;	2;	2014;
+Rooftop Remodeling Falkestrasse;	Vienna;   Austria;	2;	1988;

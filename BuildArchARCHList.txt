@@ -1,0 +1,5 @@
+1;	studio505;		395 Little Lonsdale St, Melbourne VIC 3000, Australia;			Australia;
+2;	Coop Himmelblau;	Spengergasse 37, 1050 Wien, Austria;			Europe;
+3;	Mark Hemel, Barbara Kuit;	Stavangerweg 890 29.1013 AX Amsterdam;			Europe;
+4;	John Nash, Henry Holland;	XXXX England;         Europe;
+5;	Ma Yansong;	West Tower, No.7, Banqiao Nanxiang, Beixinqiao, Beijing, China;			Asia;
