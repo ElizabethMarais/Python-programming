@@ -1,0 +1,11 @@
+University of Cape Town;	Ikeys / UCT;   01/10/1829;  02/04/1918;	27990;	Cape Town;	English;
+University of Fort Hare;	UFH;  01/01/1916;  01/01/1916;	11074;  Alice, East London, Bhisho;	English;
+University of the Free State;	Kovsies / UFS;  28/01/1904; 01/01/1950;	26275;	Bloemfontein, QwaQwa;	Afrikaans;
+University of KwaZulu-Natal;	UKZN / Natal;  01/01/2004;  01/01/2004;	37850;	Durban, Pietermaritzburg, Pinetown, Westville;  English;
+University of Limpopo;	Turfloop;   01/01/2005; 01/01/2005;	20600;	Polokwane, Turfloop;	English;
+North-West University;	NWU / Pukke / Potch;  01/01/2004;  01/01/2004;	44008;	Mafikeng, Mankwe, Potchefstroom, Vanderbijlpark;	Setswana;
+University of Pretoria;	Tuks / Tukkies / UP;  04/03/1908;   10/10/1930;	38934;	Pretoria, Johannesburg;	English;
+University of Pretoria;	Tuks / Tukkies / UP;  04/03/1908;   10/10/1930;	38934;	Pretoria, Johannesburg;	Afrikaans;
+University of Stellenbosch;	Maties, Stellies;  01/01/1866;  02/04/1918;	27823;	Stellenbosch, Saldanha Bay, Bellville, Tygerberg;	Afrikaans;
+University of the Western Cape;	UWC / Bush / U Dubs;  01/01/1959;  01/01/1970;	15226;	Bellville (Cape Town);	English;
+University of the Witwatersrand;	Wits, Witsies;  01/01/1896;  01/01/1922;	27934;	Johannesburg;	English;
