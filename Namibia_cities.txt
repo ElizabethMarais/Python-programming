@@ -1,0 +1,13 @@
+Windhoek;	Khomas;	233529;	325858;
+Walvis Bay;	Erongo;	43611;	62096;
+Swakopmund;	Erongo;	23808;	44725;
+Henties Bay;	Erongo;	3285;	4720;
+Omaruru;	Erongo;	4761;	6300;
+Otjiwarongo;	Otjozondjupa;	19614;	28249;
+Okahandja;	Otjozondjupa;	14039;	22639;
+Grootfontein;	Otjozondjupa;	14249;	16632;
+Mariental;	Hardap;	9836;	12478;
+Outjo;		Kunene;	6013;	8445;
+Gobabis;	Omaheke;13856;	19101;
+Tsumeb;		Oshikoto;14929;	19275;
+Keetmanshoop;	Karas;	15778;	20977;
