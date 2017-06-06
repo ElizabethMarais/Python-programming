@@ -1,0 +1,6 @@
+1971031702666590;	University of Pretoria;	BSc Biochemistry;
+1971031702666590;	North-West University;	BA French;
+1972050902663420;	University of Pretoria;	BSc Agric. Eng.;
+1972050902663420;	University of Pretoria;	B Agricultaral;
+1975110123490670;	University of the Witwatersrand;	Bsc Chem Eng.;
+1981122606893670;	North-West University;	B Eng Finance;
