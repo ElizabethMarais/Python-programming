@@ -1,0 +1,44 @@
+{"data":[
+  {
+    "name" : "Erongo",
+   "capital" : "Swakopmund",
+   "area" : "63539",
+   "population" : {
+ 	  "Pop_1991" :"55470",
+ 	  "Pop_2001" :"107663",
+ 	  "Pop_2011" :"150809",
+ 	  "Pop_2016" :"182400" }
+},
+{
+   "name" : "Hardap",
+   "capital" : "Mariental",
+   "area" : "109781",
+   "population" : {
+	  "Pop_1991" :"66495",
+	  "Pop_2001" :"68249",
+ 	  "Pop_2011" :"79507",
+ 	  "Pop_2016" :"87200"  }
+},
+
+{
+   "name" : "Karas",
+   "capital" : "Keetmanshoop",
+   "area" : "161514",
+   "population" : {
+	  "Pop_1991" :"61162",
+	  "Pop_2001" :"69329",
+ 	  "Pop_2011" :"77421",
+ 	  "Pop_2016" :"85800"  }
+},
+{
+   "name" : "Kavango/Okavango",
+   "capital"  : "Rundu/Nkurenkuru" ,
+   "area" : "48742",
+   "population" : {
+      "Pop_1991": "116830",
+      "Pop_2001": "202694",
+      "Pop_2011": "223352",
+      "Pop_2016": "237800" }
+}
+]
+}
