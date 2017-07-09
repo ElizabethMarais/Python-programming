@@ -1,6 +1,6 @@
 {"data":[
   {
-    "name" : "Erongo",
+   "name" : "Erongo",
    "capital" : "Swakopmund",
    "area" : "63539",
    "population" : {
@@ -39,6 +39,96 @@
       "Pop_2001": "202694",
       "Pop_2011": "223352",
       "Pop_2016": "237800" }
+},
+{
+   "name" : "Khomas",
+   "capital"  : "Windhoek",
+   "area" : "36964",
+   "population" : {
+      "Pop_1991": "167071",
+      "Pop_2001": "250262",
+      "Pop_2011": "342141",
+      "Pop_2016": "415800" }
+},
+{
+   "name" : "Kunene",
+   "capital"  : "Opuwo",
+   "area" : "115260",
+   "population" : {
+      "Pop_1991": "64017",
+      "Pop_2001": "68735",
+      "Pop_2011": "86856",
+      "Pop_2016": "97900" }
+},
+{
+   "name" : "Ohangwena",
+   "capital"  : "Eenhana",
+   "area" : "10706",
+   "population" : {
+      "Pop_1991": "179634",
+      "Pop_2001": "228384",
+      "Pop_2011": "228384",
+      "Pop_2016": "255500" }
+},
+{
+   "name" : "Omaheke",
+   "capital"  : "Gobabis ",
+   "area" : "84981",
+   "population" : {
+      "Pop_1991": "52735",
+      "Pop_2001": "68039",
+      "Pop_2011": "71233",
+      "Pop_2016": "74600" }
+},
+{
+   "name" : "Omusati",
+   "capital"  : "Outapi" ,
+   "area" : "26551",
+   "population" : {
+      "Pop_1991": "189919",
+      "Pop_2001": "228842",
+      "Pop_2011": "243166",
+      "Pop_2016": "249900" }
+},
+{
+   "name" : "Oshana",
+   "capital"  : "Oshakati" ,
+   "area" : "8647",
+   "population" : {
+      "Pop_1991": "134884",
+      "Pop_2001": "161916",
+      "Pop_2011": "176674",
+      "Pop_2016": "189200" }
+},
+{
+   "name" : "Oshikoto",
+   "capital"  : "Tsumeb" ,
+   "area" : "38685",
+   "population" : {
+      "Pop_1991": "128745",
+      "Pop_2001": "161007",
+      "Pop_2011": "181973",
+      "Pop_2016": "195200" }
+},
+{
+   "name" : "Otjozondjupa",
+   "capital"  : "Grootfontein " ,
+   "area" : "105460",
+   "population" : {
+      "Pop_1991": "102536",
+      "Pop_2001": "135384",
+      "Pop_2011": "143903",
+      "Pop_2016": "154300" }
+},
+{
+   "name" : "Zambezi/Caprivi",
+   "capital"  : "Katima/Mulilo" ,
+   "area" : "14785",
+   "population" : {
+      "Pop_1991": "90422",
+      "Pop_2001": "79826",
+      "Pop_2011": "90596",
+      "Pop_2016": "98800" }
 }
 ]
 }

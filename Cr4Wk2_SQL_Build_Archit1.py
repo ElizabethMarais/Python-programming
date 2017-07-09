@@ -128,7 +128,7 @@ if arch_in <> "" or arch_in != 'done':
 #  except:
 #      print "Wrong input, please enter an arthitect name."
 #      continue
-#  arch_in = raw_input("Please enter the arthitect you wish to see the buildings designed by: ")
+#  arch_in = raw_input("Please enter the architect you wish to see the buildings designed by: ")
 
 cur.close()
 
