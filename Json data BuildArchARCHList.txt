@@ -1,0 +1,33 @@
+{"data":[
+  {
+   "arch_id" : "1",
+   "name" : "studio505",
+   "address" : "395 Little Lonsdale St, Melbourne VIC 3000, Australia",
+   "continent" : "Australia"
+},
+  {
+   "arch_id" : "2",
+   "name" : "Coop Himmelblau",
+   "address" : "Spengergasse 37, 1050 Wien, Austria",
+   "continent" : "Europe"
+},
+  {
+   "arch_id" : "3",
+   "name" : "Mark Hemel, Barbara Kuit",
+   "address" : "Stavangerweg 890 29.1013 AX Amsterdam",
+   "continent" : "Europe"
+},
+  {
+   "arch_id" : "4",
+   "name" : "John Nash, Henry Holland",
+   "address" : "England",
+   "continent" : "Europe"
+},
+{
+   "arch_id" : "5",
+   "name" : "Ma Yansong",
+   "address" : "West Tower, No.7, Banqiao Nanxiang, Beixinqiao, Beijing, China",
+   "continent" : "Asia"
+}
+]
+}

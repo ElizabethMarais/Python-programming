@@ -1,0 +1,102 @@
+{"data":[
+  {
+   "name" : "Nanyang Primary School",
+   "city" : "Singapore",
+   "country" : "Singapore",
+   "arch_id" : "1",
+   "year" : "2015"
+},
+  {
+   "name" : "Wujin Lotus Conference Center",
+   "city" : "Wujin",
+   "country" : "China",
+   "arch_id" : "1",
+   "year" : "2013"
+} ,
+  {
+   "name" : "Wintergarden Art Facade",
+   "city" : "Brisbane",
+   "country" : "Australia",
+   "arch_id" : "1",
+   "year" : "2012"
+},
+  {
+   "name" : "Pixel building",
+   "city" : "Melbourne Victoria",
+   "country" : "Australia",
+   "arch_id" : "1",
+   "year" : "2010"
+},
+  {
+   "name" : "The Waratah Studio",
+   "city" : "Chelsea",
+   "country" : "United Kingdom",
+   "arch_id" : "1",
+   "year" : "2013"
+},
+  {
+   "name" : "Suzhou Science & Cultural Arts Centre Facade",
+   "city" : "Suzhou",
+   "country" : "China",
+   "arch_id" : "1",
+   "year" : "2006"
+},
+  {
+   "name" : "UFA Palast in Dresden",
+   "city" : "Dresden",
+   "country" : "Germany",
+   "arch_id" : "1",
+   "year" : "2010"
+},
+  {
+   "name" : "Helix Bridge",
+   "city" : "Singapore",
+   "country" : "Singapore",
+   "arch_id" : "6",
+   "year" : "2010"
+},
+  {
+   "name" : "Busan Cinema Center",
+   "city" : "Busan",
+   "country" : "South Korea",
+   "arch_id" : "2",
+   "year" : "2012"
+},
+  {
+   "name" : "Royal Pavilion",
+   "city" : "Brighton",
+   "country" : "England",
+   "arch_id" : "4",
+   "year" : "1786"
+},
+  {
+   "name" : "Sheraton Huzhou Hot Spring Resort",
+   "city" : "Huzhou Shi",
+   "country" : "China",
+   "arch_id" : "5",
+   "year" : "2013"
+},
+  {
+   "name" : "Canton Tower",
+   "city" : "Guangzhou",
+   "country" : "China",
+   "arch_id" : "3",
+   "year" : "2010"
+},
+  {
+   "name" : "Musee des Confluences",
+   "city" : "Lyon",
+   "country" : "France",
+   "arch_id" : "2",
+   "year" : "2014"
+},
+  {
+   "name" : "Rooftop Remodeling Falkestrasse",
+   "city" : "Vienna",
+   "country" : "Austria",
+   "arch_id" : "2",
+   "year" : "1988"
+}
+
+]
+}
