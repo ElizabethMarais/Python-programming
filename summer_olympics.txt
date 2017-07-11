@@ -1,0 +1,29 @@
+1896,	Athens,	7
+1900,	Paris,	14
+1904,	St. Louis,	5
+1908,	London,	12
+1912,	Stockholm,	12
+1920,	Antwerp,	17
+1924,	Paris,	17
+1928,	Amsterdam,	14
+1932,	Los Angeles,	15
+1936,	Berlin,	22
+1948,	London,	25
+1952,	Helsinki,	24
+1956,	Melbourne,	17
+1960,	Rome,	34
+1964,	Tokyo,	33
+1968,	Mexico City,	25
+1972,	Munich,	32
+1976,	Montreal,	27
+1980,	Moscow,	28
+1984,	Los Angeles,	31
+1988,	Seoul,	31
+1992,	Barcelona,	43
+1996,	Atlanta,	29
+2000,	Sydney,	30
+2004,	Athens,	35
+2008,	Beijing,	37
+2012,	London,	31
+2016,	Rio de Janeiro,	36
+
