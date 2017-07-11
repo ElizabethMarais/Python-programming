@@ -1,0 +1,244 @@
+C:\Python27>python Json_Olympic_Summergames_more.py
+PROGRAM reads a Json text file about Summer Olympic games, it uses 'Json Olympic
+ games data.txt').
+
+Retrieving books data from a Json data file:  Json Olympic games data.txt
+Retrieved 28 items in list
+
+The Summer Olympic games were held:
+Year: 1896
+Name: Athens
+Venues used: 7
+
+Year: 1900
+Name: Paris
+Venues used: 14
+
+Year: 1904
+Name: St. Louis
+Venues used: 5
+
+Year: 1908
+Name: London
+Venues used: 12
+
+Year: 1912
+Name: Stockholm
+Venues used: 12
+
+Year: 1920
+Name: Antwerp
+Venues used: 17
+
+Year: 1924
+Name: Paris
+Venues used: 17
+
+Year: 1928
+Name: Amsterdam
+Venues used: 14
+
+Year: 1932
+Name: Los Angeles
+Venues used: 15
+
+Year: 1936
+Name: Berlin
+Venues used: 22
+
+Year: 1948
+Name: London
+Venues used: 25
+
+Year: 1952
+Name: Helsinki
+Venues used: 24
+
+Year: 1956
+Name: Melbourne
+Venues used: 17
+
+Year: 1960
+Name: Rome
+Venues used: 34
+
+Year: 1964
+Name: Tokyo
+Venues used: 33
+
+Year: 1968
+Name: Mexico City
+Venues used: 25
+
+Year: 1972
+Name: Munich
+Venues used: 32
+
+Year: 1976
+Name: Montreal
+Venues used: 27
+
+Year: 1980
+Name: Moscow
+Venues used: 28
+
+Year: 1984
+Name: Los Angeles
+Venues used: 31
+
+Year: 1988
+Name: Seoul
+Venues used: 31
+
+Year: 1992
+Name: Barcelona
+Venues used: 43
+
+Year: 1996
+Name: Atlanta
+Venues used: 29
+
+Year: 2000
+Name: Sydney
+Venues used: 30
+
+Year:  2004
+Name: Athens
+Venues used: 35
+
+Year: 2008
+Name: Beijing
+Venues used: 37
+
+Year: 2012
+Name: London
+Venues used: 31
+
+Year: 2016
+Name: Rio de Janeiro
+Venues used: 36
+
+
+The city in which the most Summer Olympic games were held, is London and it was
+3 times.
+
+From a list, the number of venues used, year, city of Summer Olympic games; venu
+es used descending:
+Venues Year City
+36 2016 Rio de Janeiro
+31 2012 London
+37 2008 Beijing
+35 2004 Athens
+30 2000 Sydney
+29 1996 Atlanta
+43 1992 Barcelona
+31 1988 Seoul
+31 1984 Los Angeles
+28 1980 Moscow
+27 1976 Montreal
+32 1972 Munich
+25 1968 Mexico City
+33 1964 Tokyo
+34 1960 Rome
+17 1956 Melbourne
+24 1952 Helsinki
+25 1948 London
+22 1936 Berlin
+15 1932 Los Angeles
+14 1928 Amsterdam
+17 1924 Paris
+17 1920 Antwerp
+12 1912 Stockholm
+12 1908 London
+5 1904 St. Louis
+14 1900 Paris
+7 1896 Athens
+
+The number of most venues used in a Summer Olympic Game is 2016 in the city 36 i
+n the year Rio de Janeiro
+
+TABLE rows: number of times games held in a specific city, displaying descending
+:
+3 London
+2 Paris
+2 Los Angeles
+2 Athens
+1 Tokyo
+
+SQL OUTPUT 1: Print 'Summer Olympic games' from table:
+Year  City name   AmountVenues
+1896   Athens    7
+1900   Paris    14
+1904   St. Louis    5
+1908   London    12
+1912   Stockholm    12
+1920   Antwerp    17
+1924   Paris    17
+1928   Amsterdam    14
+1932   Los Angeles    15
+1936   Berlin    22
+1948   London    25
+1952   Helsinki    24
+1956   Melbourne    17
+1960   Rome    34
+1964   Tokyo    33
+1968   Mexico City    25
+1972   Munich    32
+1976   Montreal    27
+1980   Moscow    28
+1984   Los Angeles    31
+1988   Seoul    31
+1992   Barcelona    43
+1996   Atlanta    29
+2000   Sydney    30
+2004   Athens    35
+2008   Beijing    37
+2012   London    31
+2016   Rio de Janeiro    36
+
+SQL OUTPUT 2: Print from table Summer Olympic games held in a city entered by th
+e user :
+Year Venues City name
+Please enter a city to determine how many Summer Olympic games were held there:
+london
+1908   12    London
+1948   25    London
+2012   31    London
+
+SQL OUTPUT 3: From the table, the of number of venues used, year, city of Summer
+ Olympic games; venues used descending:
+Year  AmountVenues City name
+1992   43    Barcelona
+2008   37    Beijing
+2016   36    Rio de Janeiro
+2004   35    Athens
+1960   34    Rome
+1964   33    Tokyo
+1972   32    Munich
+1984   31    Los Angeles
+1988   31    Seoul
+2012   31    London
+2000   30    Sydney
+1996   29    Atlanta
+1980   28    Moscow
+1976   27    Montreal
+1948   25    London
+1968   25    Mexico City
+1952   24    Helsinki
+1936   22    Berlin
+1920   17    Antwerp
+1924   17    Paris
+1956   17    Melbourne
+1932   15    Los Angeles
+1900   14    Paris
+1928   14    Amsterdam
+1908   12    London
+1912   12    Stockholm
+1896   7    Athens
+1904   5    St. Louis
+
+The Summer Olympic game where the most venues were used, is Barcelona and it was
+ 43 times.
+
+C:\Python27>
+
