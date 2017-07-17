@@ -1,0 +1,52 @@
+OUTPUT OF Json_Languages_dict.py
+
+C:\Python27>python Json_Languages_dict.py
+PROGRAM reads a Json data file, 'Json_Languages_dict.json' about Languages of So
+uth-Africa and percentages spoken, and does a few queries on it.
+Data obtained from 'https://en.wikipedia.org/wiki/Languages_of_South_Africa'
+
+Retrieving languages data from a Json data file:  Json_Languages_dict.json
+Retrieved 11 items in list
+
+Languages of South-Africa and percentages spoken:
+Language: Venda
+Percentage: 2.4
+
+Language: Zulu
+Percentage: 22.7
+
+Language: Tswana
+Percentage: 8.0
+
+Language: Sepedi
+Percentage: 9.1
+
+Language: Tsonga
+Percentage: 4.5
+
+Language: Ndebele
+Percentage: 2.1
+
+Language: English
+Percentage: 9.6
+
+Language: Sesotho
+Percentage: 7.6
+
+Language: Afrikaans
+Percentage: 13.5
+
+Language: Swazi
+Percentage: 2.5
+
+Language: Xhosa
+Percentage: 16.0
+
+
+What language's percentage do you want to look up? Xhosa
+The percentage of Xhosa is 16.0 %
+
+The language least spoken is Ndebele with percentage 2.1 %
+The language most spoken is Zulu with percentage 22.7 %
+
+C:\Python27>
