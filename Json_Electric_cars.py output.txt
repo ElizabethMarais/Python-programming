@@ -1,0 +1,260 @@
+OUTPUT of Json_Electic_cars.py
+
+C:\Python27>python Json_Electic_cars.py
+PROGRAM reads a Json data file, 'Json Electric cars data.json' about the latest
+electrical car models of the  world, it does a few queries on it.
+Data obtained from 'https://en.wikipedia.org/wiki/List_of_electric_cars_currentl
+y_available'
+
+Retrieving Electric car models, data from a Json data file:  Json Electric cars
+data.json
+Retrieved 1 items in list
+
+Current available Electric car models and information:
+Retrieved 26 items in list
+Car Name: BMW
+Country: Germany
+Model: i3
+Top speed: 150
+Capacity: 4
+Nominal Range: 183
+
+Car Name: BMW Brilliance
+Country: Germany
+Model: Zinoro 1E
+Top speed: 130
+Capacity: 4
+Nominal Range: 150
+
+Car Name: Bollore
+Country: France
+Model: Bluecar
+Top speed: 130
+Capacity: 4
+Nominal Range: 250
+
+Car Name: BYD
+Country: China
+Model: e6
+Top speed: 140
+Capacity: 5
+Nominal Range: 300
+
+Car Name: Chevrolet
+Country: United States
+Model: Bolt EV
+Top speed: 150
+Capacity: 5
+Nominal Range: 383
+
+Car Name: Citroen
+Country: France
+Model: C-Zero
+Top speed: 130
+Capacity: 4
+Nominal Range: 150
+
+Car Name: Fiat
+Country: Italy
+Model: 500e
+Top speed: 142
+Capacity: 140
+Nominal Range: 140
+
+Car Name: Ford
+Country: United States
+Model: Focus Electric
+Top speed: 135
+Capacity: 5
+Nominal Range: 122
+
+Car Name: Honda
+Country: Japan
+Model: Fit EV
+Top speed: 148
+Capacity: 4
+Nominal Range: 132
+
+Car Name: Hyundai
+Country: South Korea
+Model: Ioniq
+Top speed: 185
+Capacity: 4
+Nominal Range: 210
+
+Car Name: JAC Motors
+Country: China
+Model: JAC J3 EV
+Top speed: 120
+Capacity: 5
+Nominal Range: 170
+
+Car Name: Kia
+Country: South Korea
+Model: Soul EV
+Top speed: 45
+Capacity: 5
+Nominal Range: 150
+
+Car Name: Kyburz
+Country: Switzerland
+Model: Kyburz eRodRace
+Top speed: 140
+Capacity: 2
+Nominal Range: 220
+
+Car Name: Lightning
+Country: United Kingdom
+Model: Lightning GT
+Top speed: 200
+Capacity: 2
+Nominal Range: 240
+
+Car Name: Mercedes-Benz
+Country: Germany
+Model: B-Class Electric Drive
+Top speed: 160
+Capacity: 5
+Nominal Range: 200
+
+Car Name: Mitsubishi
+Country: Japan
+Model: i-MiEV
+Top speed: 130
+Capacity: 4
+Nominal Range: 170
+
+Car Name: MW Motors
+Country: Czech Republic
+Model: Luka EV
+Top speed: 148
+Capacity: 2
+Nominal Range: 300
+
+Car Name: Nissan
+Country: Japan
+Model: Leaf
+Top speed: 150
+Capacity: 5
+Nominal Range: 121
+
+Car Name: Peugeot
+Country: France
+Model: i0n
+Top speed: 130
+Capacity: 4
+Nominal Range: 150
+
+Car Name: Renault
+Country: France
+Model: Fluence ZE
+Top speed: 135
+Capacity: 5
+Nominal Range: 135
+
+Car Name: Renault
+Country: France
+Model: Zoe
+Top speed: 135
+Capacity: 5
+Nominal Range: 400
+
+Car Name: Rimac
+Country: Croatia
+Model: Concept One
+Top speed: 355
+Capacity: 2
+Nominal Range: 501
+
+Car Name: Smart
+Country: Germany
+Model: Smart electric drive
+Top speed: 125
+Capacity: 2
+Nominal Range: 145
+
+Car Name: Tesla
+Country: United States
+Model: Model S
+Top speed: 209
+Capacity: 5
+Nominal Range: 335
+
+Car Name: Venturi
+Country: Monaco
+Model: Fetish
+Top speed: 200
+Capacity: 2
+Nominal Range: 340
+
+Car Name: Volkswagen
+Country: Germany
+Model: e-Golf
+Top speed: 145
+Capacity: 5
+Nominal Range: 190
+
+
+What electric car's information do you want to look up? BMW
+Car Name: BMW
+Country: Germany
+Model: i3
+Top speed: 150
+Capacity: 4
+Nominal Range: 183
+
+Car Name: BMW Brilliance
+Country: Germany
+Model: Zinoro 1E
+Top speed: 130
+Capacity: 4
+Nominal Range: 150
+
+
+The car with the highest speed:
+Car Name: Rimac
+Country: Croatia
+Model: Concept One
+Top speed: 355
+Capacity: 2
+Nominal Range: 501
+
+The car with the lowest speed:
+Car Name: Kia
+Country: South Korea
+Model: Soul EV
+Top speed: 45
+Capacity: 5
+Nominal Range: 150
+
+The car with the highest Nominal range:
+Car Name: Rimac
+Country: Croatia
+Model: Concept One
+Top speed: 355
+Capacity: 2
+Nominal Range: 501
+
+The car with the lowest Nominal range:
+Car Name: Nissan
+Country: Japan
+Model: Leaf
+Top speed: 150
+Capacity: 5
+Nominal Range: 121
+
+Count in each country the electric cars listed:
+United Kingdom : 1
+Italy : 1
+Czech Republic : 1
+Japan : 3
+France : 5
+United States : 3
+China : 2
+Germany : 5
+Monaco : 1
+Switzerland : 1
+Croatia : 1
+South Korea : 2
+
+C:\Python27>
