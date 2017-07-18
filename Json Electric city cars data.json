@@ -1,0 +1,74 @@
+{"data" :  
+[
+{
+   "Car Name" : "Kewet Buddy", 
+   "Country" : "Norway",
+   "Top speed" : "80",
+    "Capacity" : "3",
+    "Nominal Range" : "60"
+},
+{
+   "Car Name" : "CityEl", 
+   "Country" : "Denmark",
+   "Top speed" : "63",
+    "Capacity" : "1",
+    "Nominal Range" : "85"
+},
+{
+   "Car Name" : "Mia electric", 
+   "Country" : "France",
+   "Top speed" : "100",
+    "Capacity" : "4",
+    "Nominal Range" : "125"
+},
+{
+   "Car Name" : "MyCar", 
+   "Country" : "Hong Kong",
+   "Top speed" : "64",
+    "Capacity" : "2",
+    "Nominal Range" : "110"
+},
+{
+   "Car Name" : "NICE Mega City", 
+   "Country" : "France",
+   "Top speed" : "64",
+    "Capacity" : "4",
+    "Nominal Range" : "96"
+},
+{
+   "Car Name" : "QBeak", 
+   "Country" : "Denmark",
+   "Top speed" : "90",
+    "Capacity" : "4",
+    "Nominal Range" : "250"
+},
+{
+   "Car Name" : "Rayttle E28", 
+   "Country" : "China",
+   "Top speed" : "80",
+    "Capacity" : "2",
+    "Nominal Range" : "130"
+},
+{
+   "Car Name" : "Renault Twizy", 
+   "Country" : "France",
+   "Top speed" : "80",
+    "Capacity" : "2",
+    "Nominal Range" : "100"
+},
+{
+   "Car Name" : "Mahindra e2o", 
+   "Country" : "India",
+   "Top speed" : "82",
+    "Capacity" : "4",
+    "Nominal Range" : "120"
+},
+{
+   "Car Name" : "Stevens Zecar", 
+   "Country" : "United Kingdom",
+   "Top speed" : "90",
+    "Capacity" : "5",
+    "Nominal Range" : "80"
+}
+]
+}
