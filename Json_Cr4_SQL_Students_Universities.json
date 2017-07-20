@@ -1,0 +1,105 @@
+{"data":[
+{
+"Institution" : "University of Cape Town",
+"Nickname" : "Ikeys  UCT", 
+"Founded" : 	"01101829", 
+"University_status" :	"02041918",
+"Total_students" : "27990",
+"Location" : "Cape Town",
+"Medium" :  "English"
+},
+{
+"Institution" : "University of Fort Hare",
+"Nickname" : "UFH", 
+"Founded" : 	"01011916", 
+"University_status" :	"01011916",
+"Total_students" : "11074",
+"Location" : "Alice, East London, Bhisho",
+"Medium" :  "English"
+},
+{ 
+"Institution" : "University of Free State",
+"Nickname" : "Kovsies  UFS", 
+"Founded" : 	"28011904", 
+"University_status" :	"01011950",
+"Total_students" : "26275",
+"Location" : "Bloemfontein, QwaQwa",
+"Medium" :  "Afrikaans"
+},
+{
+"Institution" : "University of KwaZulu-Natal",
+"Nickname" : "UKZN  Natal", 
+"Founded" : 	"01012004", 
+"University_status" :	"01012004",
+"Total_students" : "37850",
+"Location" : "Durban, Pietermaritzburg, Pinetown, Westville",
+"Medium" :  "English"
+},
+{
+"Institution" : "University of Limpopo",
+"Nickname" : "Turfloop", 
+"Founded" : 	"01012005", 
+"University_status" :	"01012005",
+"Total_students" : "20600",
+"Location" : "Polokwane",
+"Medium" :  "English"
+},
+{   
+"Institution" : "North-West University",
+"Nickname" : "NWU  Pukke  Potch", 
+"Founded" : 	"01012004", 
+"University_status" :	"01012004",
+"Total_students" : "44008",
+"Location" : "Mafikeng, Mankwe, Potchefstroom, Vanderbijlpark",
+"Medium" :  "Setswana"
+},
+{
+"Institution" : "University of Pretoria",
+"Nickname" : "Tuks  Tukkies  UP", 
+"Founded" : 	"04031908", 
+"University_status" :	"10101930",
+"Total_students" : "38934",
+"Location" : "Pretoria, Johannesburg",
+"Medium" :  "English"
+},
+{
+"Institution" : "University of Pretoria",
+"Nickname" : "Tuks  Tukkies  UP", 
+"Founded" : 	"04031908", 
+"University_status" :	"10101930",
+"Total_students" : "38934",
+"Location" : "Pretoria, Johannesburg",
+"Medium" :  "Afrikaans"
+},
+{
+"Institution" : "University of Stellenbosch",
+"Nickname" : "Maties, Stellies", 
+"Founded" : 	"01011866", 
+"University_status" :	"02041918",
+"Total_students" : "2792782390",
+"Location" : "Stellenbosch, Saldanha Bay, Bellville, Tygerberg",
+"Medium" :  "Afrikaans"
+},
+{
+"Institution" : "University of Western Cape",
+"Nickname" : "UWC  Bush  U Dubs", 
+"Founded" : 	"01011959", 
+"University_status" :	"01011970",
+"Total_students" : "15226",
+"Location" : "Bellville (Cape Town)",
+"Medium" :  "English"
+},
+{
+"Institution" : "University of Witwatersrand",
+"Nickname" : "Wits, Witsies", 
+"Founded" : 	"01011896", 
+"University_status" :	"01011922",
+"Total_students" : "27934",
+"Location" : "Johannesburg",
+"Medium" :  "English"
+}
+]
+}
+
+
+

@@ -1,0 +1,58 @@
+{"data":[
+{
+"Language" : "Afrikaans",
+"Number_spoken" : "6855082", 
+"Percent" : 	"0.135" 
+},
+{
+"Language" : "English",
+"Number_spoken" : "4892623", 
+"Percent" : 	"0.096" 
+},
+{
+"Language" : "Ndebele",
+"Number_spoken" : "1090223", 
+"Percent" : 	"0.021" 
+},
+{
+"Language" : "Xhosa",
+"Number_spoken" : "8154258", 
+"Percent" : 	"0.16" 
+},
+{ 
+"Language" : "Zulu",
+"Number_spoken" : "11587374", 
+"Percent" : 	"0.227" 
+},
+{ 
+"Language" : "Sepedi",
+"Number_spoken" : "4618576", 
+"Percent" : 	"0.091"
+},
+{
+"Language" : "Sotho",
+"Number_spoken" : "3849563", 
+"Percent" : 	"0.076" 
+},
+{
+"Language" : "Tswana",
+"Number_spoken" : "4067248", 
+"Percent" : 	"0.08" 
+},
+{
+"Language" : "Swazi",
+"Number_spoken" : "1297046", 
+"Percent" : 	"0.025" 
+},
+{
+"Language" : "Venda",
+"Number_spoken" : "1209388", 
+"Percent" : 	"0.024"
+},
+{  
+"Language" : "Tsonga",
+"Number_spoken" : "2277148", 
+"Percent" : 	"0.045" 
+}
+]
+}

@@ -1,0 +1,35 @@
+{"data":[
+{
+"Student_no" : "1971031702666590",
+"Name" : "JEH Marais", 
+"ID_no" : 	"197103170200085", 
+"Birth_date" :	"17/03/1971",
+"Address" : "5 Hillcrest road, Hatfield, Pretoria",
+"Cell_no" : "0828029237"
+},
+{
+"Student_no" : "1972050902663420",
+"Name" : "JA Gutter", 
+"ID_no" : 	"197205090200593", 
+"Birth_date" :	"09/05/1972",
+"Address" : "3 Flower road, White River Estate, Mpumalanga",
+"Cell_no" : "0825205425"
+},
+{
+"Student_no" : "1981122606893670",
+"Name" : "D Pienaar", 
+"ID_no" : 	"198112268902667", 
+"Birth_date" :	"26/12/1981",
+"Address" : "49 Kierie road, Silverton, Pretoria",
+"Cell_no" : "0879876434"
+},
+{
+"Student_no" : "1975110123490670",
+"Name" : "SL van Niekerk", 
+"ID_no" : 	"197511013789089", 
+"Birth_date" :	"01/11/1975",
+"Address" : "30 Toslyn ave, Waterkloofglen, Pretoria",
+"Cell_no" : "0719876689"
+}
+]
+}

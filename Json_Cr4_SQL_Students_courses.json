@@ -1,0 +1,35 @@
+{"data":[
+{
+"Student_no" : "1971031702666590",
+"Institution" : "University of Pretoria", 
+"Course" : 	"BSc Biochemistry" 
+},
+{ 
+"Student_no" : "1971031702666590",
+"Institution" : "North-West University", 
+"Course" : 	"BA French" 
+},
+{
+"Student_no" : "1972050902663420",
+"Institution" : "University of Pretoria", 
+"Course" : 	"BSc Agric. Eng."
+},
+{
+"Student_no" : "1972050902663420",
+"Institution" : "University of Pretoria", 
+"Course" : 	"B Agricultaral" 
+},
+{
+"Student_no" : "1975110123490670",
+"Institution" : "University of the Witwatersrand", 
+"Course" : 	"Bsc Chem Eng." 
+},
+{
+"Student_no" : "1981122606893670",
+"Institution" : "North-West University", 
+"Course" : 	"B Eng Finance"
+}
+]
+}
+
+
